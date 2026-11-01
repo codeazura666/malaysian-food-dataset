@@ -2,9 +2,10 @@
 
 Датасет фотографий малайзийских блюд. Каждое блюдо — отдельная папка (класс), файлы названы по блюду: `nasi_lemak/nasi_lemak_001.jpg`.
 
-- **Блюд:** 21
-- **Фото:** 648, JPEG, обычно 960–1280 px по длинной стороне
+- **Блюд:** 34
+- **Фото:** 841, JPEG, обычно 960–1280 px по длинной стороне
 - **Проверка:** каждое фото просмотрено вручную; убраны логотипы, упаковки, вывески, люди без еды, фото с водяными знаками, коллажи и почти одинаковые кадры
+- Многие блюда общие для Малайзии, Сингапура, Индонезии и Индии, поэтому часть фото снята там — блюдо то же, подача может отличаться
 
 ## Скачать всё разом
 
@@ -31,10 +32,23 @@
 | [wonton_mee](wonton_mee) | Wonton mee — лапша с вонтонами | 59 |
 | [murtabak](murtabak) | Murtabak — жареная лепёшка с мясом и яйцом | 17 |
 | [mee_goreng](mee_goreng) | Mee goreng — жареная лапша | 16 |
+| [popiah](popiah) | Popiah — свежие спринг-роллы | 12 |
 | [otak_otak](otak_otak) | Otak-otak — рыбная паста, запечённая в листьях | 10 |
 | [pisang_goreng](pisang_goreng) | Pisang goreng — бананы в кляре | 12 |
+| [kaya_toast](kaya_toast) | Kaya toast — тосты с кокосовым джемом кая | 10 |
 | [yong_tau_foo](yong_tau_foo) | Yong tau foo — тофу и овощи с рыбной начинкой | 14 |
 | [claypot_chicken_rice](claypot_chicken_rice) | Claypot chicken rice — рис с курицей в глиняном горшке | 17 |
+| [nasi_kerabu](nasi_kerabu) | Nasi kerabu — синий рис с травами, рыбой и самбалом | 13 |
+| [curry_puff](curry_puff) | Curry puff (karipap) — жареный пирожок с картофелем и карри | 17 |
+| [onde_onde](onde_onde) | Onde-onde — рисовые шарики с пальмовым сахаром в кокосовой стружке | 19 |
+| [nasi_kandar](nasi_kandar) | Nasi kandar — рис с разными карри и соусами | 11 |
+| [prawn_mee](prawn_mee) | Prawn mee (hae mee) — лапша в креветочном бульоне | 12 |
+| [pan_mee](pan_mee) | Pan mee — домашняя лапша с анчоусами и фаршем | 10 |
+| [roti_jala](roti_jala) | Roti jala — кружевные блинчики, подаются с карри | 13 |
+| [putu_mayam](putu_mayam) | Putu mayam — гнёзда из рисовой лапши с кокосом и пальмовым сахаром | 28 |
+| [kuih_dadar](kuih_dadar) | Kuih dadar — зелёные блинчики с кокосовой начинкой | 17 |
+| [pineapple_tart](pineapple_tart) | Pineapple tart — песочное печенье с ананасовым джемом | 16 |
+| [kek_lapis](kek_lapis) | Kek lapis — многослойный торт | 15 |
 
 ## Структура
 
